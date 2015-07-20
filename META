@@ -1,0 +1,3 @@
+description = "Interface to the OCaml strings for the Coq extraction."
+archive(byte) = "extractionString.cma"
+archive(native) = "extractionString.cmxa"
