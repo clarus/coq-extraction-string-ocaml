@@ -1,2 +1,2 @@
 # coq-extraction-ocaml-string
-Interface to OCaml strings.
+Interface to the OCaml strings for the Coq extraction.
